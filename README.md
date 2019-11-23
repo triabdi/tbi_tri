@@ -1,2 +1,3 @@
 # tbi_tri
-pembelajaran pelatihan
+Machine Learning
+Tbi_Tri
